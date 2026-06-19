@@ -3,6 +3,8 @@ Exploring quaternion representations of UFC fighters. Each fighter is modeled us
 
 I decided to represent UFC fighters using quaternions, partly to learn more about them and partly because I found it useful to represent a single entity (a fighter) using four different components that describe the same individual. These components are effective strikes landed per minute, defense against opponent strikes, effective takedowns, and takedown defense.
 
+<img width="896" height="785" alt="image" src="https://github.com/user-attachments/assets/a1f736a4-4135-4b47-b000-c96dd4162f41" />
+
 <img width="1668" height="1337" alt="02_scatter_estilos" src="https://github.com/user-attachments/assets/37a2f2e6-bad8-42af-b452-ebd13f7c16f7" />
 
 <img width="1633" height="1217" alt="01_distribuciones" src="https://github.com/user-attachments/assets/ae4008ab-0f15-4b39-b800-743dd197e2f8" />
